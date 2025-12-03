@@ -20,5 +20,5 @@ Transformers, Torch, Pandas, Numpy, Scikit-learn
 
 ## How to run
 1. Download dataset
-2. Open the notebook 
+2. Open the notebook on Kaggle 
 3. Run all cells
